@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 1, "WriteConsoleA": 3, "LdrLoadDll": 1, "LdrGetDllHandle": 2, "NtClose": 6, "NtCreateFile": 1, "GetSystemWindowsDirectoryW": 1, "RegOpenKeyExA": 1, "FindFirstFileExW": 2, "NtCreateSection": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 2, "NtQueryValueKey": 1}, "class": "benign", "name": "orbd.exe"}

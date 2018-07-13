@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 5, "FindResourceExW": 2, "LdrLoadDll": 1, "NtQueryAttributesFile": 1, "GetFileType": 3, "GetSystemMetrics": 7, "NtClose": 4, "SetErrorMode": 2, "NtFreeVirtualMemory": 1, "NtOpenFile": 2, "LdrGetProcedureAddress": 1}, "class": "benign", "name": "_isdel.exe"}

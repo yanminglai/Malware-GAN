@@ -1,0 +1,1 @@
+{"class": "malware", "name": "09e94082-cca8-11e7-9fbe-80e65024849a.file", "apistats": {"FindResourceExW": 5, "LdrGetProcedureAddress": 3, "LdrGetDllHandle": 1, "GetSystemMetrics": 6, "NtAllocateVirtualMemory": 10, "NtFreeVirtualMemory": 2, "IsDebuggerPresent": 1, "GetFileType": 3, "LoadResource": 1, "NtClose": 3, "NtMapViewOfSection": 1, "NtDelayExecution": 180, "LdrLoadDll": 2}}

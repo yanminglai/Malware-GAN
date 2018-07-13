@@ -1,0 +1,1 @@
+{"name": "069a7e59-8afb-11e7-b2e8-80e65024849a.file", "apistats": {"GetSystemInfo": 1, "NtClose": 3, "LdrLoadDll": 2, "LdrGetDllHandle": 1, "GetSystemTimeAsFileTime": 1}, "class": "malware"}

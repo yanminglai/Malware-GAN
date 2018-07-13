@@ -1,0 +1,1 @@
+{"apistats": {"NtCreateSection": 1, "NtOpenFile": 1, "SearchPathW": 2, "LdrGetProcedureAddress": 11, "GetSystemWindowsDirectoryW": 1, "NtClose": 2, "NtAllocateVirtualMemory": 2, "LdrLoadDll": 1}, "name": "8be80300-e703-11e7-be43-80e65024849a.file", "class": "malware"}

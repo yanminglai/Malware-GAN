@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtAllocateVirtualMemory": 212, "LdrLoadDll": 1, "NtQueryValueKey": 1, "GetSystemTimeAsFileTime": 2, "SetUnhandledExceptionFilter": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 3, "NtClose": 3, "NtTerminateProcess": 3, "NtOpenFile": 1, "LdrGetProcedureAddress": 2, "DeviceIoControl": 1}, "class": "benign", "name": "msfeedssync.exe"}

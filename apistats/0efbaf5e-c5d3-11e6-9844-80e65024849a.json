@@ -1,0 +1,1 @@
+{"apistats": {"NtResumeThread": 1, "GetFileAttributesW": 1, "LdrGetProcedureAddress": 1, "SetFileAttributesW": 36027, "NtDelayExecution": 1, "__exception__": 1, "GetFileType": 3, "NtAllocateVirtualMemory": 6, "RemoveDirectoryA": 1, "LdrGetDllHandle": 1, "NtCreateMutant": 1, "NtFreeVirtualMemory": 1}, "name": "0efbaf5e-c5d3-11e6-9844-80e65024849a.file", "class": "malware"}

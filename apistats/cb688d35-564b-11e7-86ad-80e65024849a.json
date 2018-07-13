@@ -1,0 +1,1 @@
+{"apistats": {"CoInitializeEx": 1, "LdrUnloadDll": 1, "GetSystemInfo": 1, "LdrGetProcedureAddress": 33, "SetUnhandledExceptionFilter": 1, "NtTerminateProcess": 3, "NtClose": 16, "GetSystemTimeAsFileTime": 1, "LdrGetDllHandle": 3, "NtOpenKey": 1, "NtQueryValueKey": 1}, "name": "cb688d35-564b-11e7-86ad-80e65024849a.file", "class": "malware"}

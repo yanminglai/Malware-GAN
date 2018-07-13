@@ -1,0 +1,1 @@
+{"class": "malware", "name": "f56c1cf3-e60e-11e6-b1ca-80e65024849a.file", "apistats": {"NtCreateFile": 1, "LdrGetProcedureAddress": 2, "NtCreateSection": 1, "FindResourceExA": 1, "FindWindowW": 1, "GetCursorPos": 19628, "NtMapViewOfSection": 1, "NtQueryInformationFile": 1, "NtQueryValueKey": 1, "NtClose": 3, "DeleteFileW": 3963, "GetSystemWindowsDirectoryW": 1, "LdrLoadDll": 1}}

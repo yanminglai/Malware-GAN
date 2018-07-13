@@ -1,0 +1,1 @@
+{"name": "7cee1114-e703-11e7-a405-80e65024849a.file", "apistats": {"LdrGetDllHandle": 2, "GetSystemTimeAsFileTime": 1, "GetFileSizeEx": 59296, "GetTempPathW": 769, "LdrGetProcedureAddress": 33, "SetUnhandledExceptionFilter": 1}, "class": "malware"}

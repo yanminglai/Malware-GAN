@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "LdrUnloadDll": 1, "DeviceIoControl": 6, "NtTerminateProcess": 3, "NtCreateFile": 15, "NtClose": 14, "NtQueryValueKey": 1}, "class": "benign", "name": "sc.exe"}

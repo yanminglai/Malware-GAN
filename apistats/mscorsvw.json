@@ -1,0 +1,1 @@
+{"apistats": {"RegQueryValueExW": 1, "LdrLoadDll": 1, "RegCloseKey": 1, "RegOpenKeyExW": 2, "SetUnhandledExceptionFilter": 1, "GetSystemTimeAsFileTime": 1}, "class": "benign", "name": "mscorsvw.exe"}

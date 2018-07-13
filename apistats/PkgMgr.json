@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 2, "NtOpenKey": 2, "NtQueryAttributesFile": 1, "GetSystemTimeAsFileTime": 1, "NtClose": 5, "NtCreateFile": 2, "NtQueryValueKey": 2, "NtCreateSection": 2, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "PkgMgr.exe"}

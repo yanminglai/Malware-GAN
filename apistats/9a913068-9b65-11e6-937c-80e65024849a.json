@@ -1,0 +1,1 @@
+{"apistats": {"LoadStringW": 2, "CreateActCtxW": 4, "GetSystemInfo": 1, "LdrGetProcedureAddress": 113, "SetUnhandledExceptionFilter": 1, "SetErrorMode": 1, "NtClose": 1, "GetSystemTimeAsFileTime": 2, "LdrLoadDll": 4, "GetFileAttributesW": 1, "LdrGetDllHandle": 1, "NtProtectVirtualMemory": 4}, "name": "9a913068-9b65-11e6-937c-80e65024849a.file", "class": "malware"}

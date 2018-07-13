@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 4, "FindResourceExW": 2, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 12, "LoadResource": 2, "NtFreeVirtualMemory": 1, "LdrGetProcedureAddress": 16}, "class": "benign", "name": "nvStInst.exe"}

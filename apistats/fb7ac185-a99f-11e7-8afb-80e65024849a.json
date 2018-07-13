@@ -1,0 +1,1 @@
+{"class": "malware", "name": "fb7ac185-a99f-11e7-8afb-80e65024849a.file", "apistats": {"NtAllocateVirtualMemory": 1, "NtFreeVirtualMemory": 1, "GetSystemTimeAsFileTime": 1, "LdrGetDllHandle": 1, "LdrLoadDll": 2}}

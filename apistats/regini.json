@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtAllocateVirtualMemory": 2, "GetSystemTimeAsFileTime": 1, "NtClose": 3, "LdrGetDllHandle": 2, "SetUnhandledExceptionFilter": 1, "NtQueryKey": 1, "NtOpenKeyEx": 1, "NtTerminateProcess": 3}, "class": "benign", "name": "regini.exe"}

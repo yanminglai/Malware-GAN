@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtProtectVirtualMemory": 4, "LdrLoadDll": 6, "NtUnmapViewOfSection": 1, "NtClose": 42, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtQueryValueKey": 1, "CreateProcessInternalW": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 74}, "class": "benign", "name": "UninsHs.exe"}

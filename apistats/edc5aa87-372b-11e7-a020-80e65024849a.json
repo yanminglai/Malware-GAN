@@ -1,0 +1,1 @@
+{"name": "edc5aa87-372b-11e7-a020-80e65024849a.file", "apistats": {"FindResourceExA": 1, "LdrLoadDll": 1, "NtMapViewOfSection": 1, "NtClose": 3, "LdrGetProcedureAddress": 2, "GetCursorPos": 19628, "NtCreateFile": 1, "FindWindowW": 1, "NtQueryValueKey": 1, "GetSystemWindowsDirectoryW": 1, "NtCreateSection": 1, "DeleteFileW": 10404, "NtQueryInformationFile": 1}, "class": "malware"}

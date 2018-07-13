@@ -1,0 +1,1 @@
+{"apistats": {"NtTerminateProcess": 3, "LdrGetDllHandle": 2, "NtAllocateVirtualMemory": 1, "SetUnhandledExceptionFilter": 2, "GetSystemTimeAsFileTime": 1}, "class": "benign", "name": "AcrobatInfo.exe"}

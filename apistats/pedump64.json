@@ -1,0 +1,1 @@
+{"apistats": {"WriteConsoleA": 847, "LdrUnloadDll": 1, "NtQueryValueKey": 1, "NtTerminateProcess": 3, "NtOpenKey": 1, "NtClose": 6}, "class": "benign", "name": "pedump64.exe"}

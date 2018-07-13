@@ -1,0 +1,1 @@
+{"class": "malware", "name": "7cd70238-9901-11e6-a201-80e65024849a.file", "apistats": {"NtSuspendThread": 2, "setsockopt": 1, "NtResumeThread": 2, "GetSystemDirectoryA": 54220, "NtAllocateVirtualMemory": 6, "NtFreeVirtualMemory": 1, "GetFileType": 3, "GetFileAttributesW": 1, "CoCreateInstance": 1, "NtDelayExecution": 2}}

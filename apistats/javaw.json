@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 1, "LdrLoadDll": 1, "NtClose": 2, "NtCreateFile": 1, "GetSystemWindowsDirectoryW": 1, "RegOpenKeyExA": 1, "FindFirstFileExW": 2, "NtCreateSection": 1, "LdrGetProcedureAddress": 2, "NtQueryValueKey": 1}, "class": "benign", "name": "javaw.exe"}

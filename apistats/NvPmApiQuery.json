@@ -1,0 +1,1 @@
+{"apistats": {"WriteConsoleA": 1, "RegCloseKey": 3, "GetFileType": 3, "NtOpenKey": 1, "SetUnhandledExceptionFilter": 1, "GetSystemTimeAsFileTime": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 3, "NtQueryValueKey": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 33, "NtFreeVirtualMemory": 2, "NtDelayExecution": 1, "NtClose": 17}, "class": "benign", "name": "NvPmApiQuery.exe"}

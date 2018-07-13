@@ -1,0 +1,1 @@
+{"apistats": {"WSAStartup": 1, "NtDelayExecution": 4, "CreateThread": 1, "socket": 1, "GetTimeZoneInformation": 2, "GetSystemTimeAsFileTime": 8, "listen": 1, "bind": 1, "select": 4, "NtAllocateVirtualMemory": 4, "NtResumeThread": 1, "WriteConsoleA": 3}, "class": "malware", "name": "cd807a33-c2b4-11e6-80fd-80e65024849a.file"}

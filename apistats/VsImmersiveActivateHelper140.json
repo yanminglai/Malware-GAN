@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "LdrLoadDll": 8, "RegCloseKey": 1, "RegOpenKeyExW": 2, "NtClose": 7, "GetSystemTimeAsFileTime": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "SetUnhandledExceptionFilter": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 10, "NtQueryValueKey": 1}, "class": "benign", "name": "VsImmersiveActivateHelper140.exe"}

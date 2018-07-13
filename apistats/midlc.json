@@ -1,0 +1,1 @@
+{"apistats": {"WriteConsoleA": 4, "NtAllocateVirtualMemory": 1, "GetSystemTimeAsFileTime": 1, "NtClose": 1, "LdrGetDllHandle": 3, "SetUnhandledExceptionFilter": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 1}, "class": "benign", "name": "midlc.exe"}

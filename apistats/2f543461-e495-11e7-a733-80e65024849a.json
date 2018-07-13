@@ -1,0 +1,1 @@
+{"class": "malware", "apistats": {"WSASocketA": 1, "NtAllocateVirtualMemory": 1, "LdrLoadDll": 1, "WSAStartup": 1}, "name": "2f543461-e495-11e7-a733-80e65024849a.file"}

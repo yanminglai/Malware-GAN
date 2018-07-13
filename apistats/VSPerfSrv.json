@@ -1,0 +1,1 @@
+{"apistats": {"LdrLoadDll": 8, "GetSystemTimeAsFileTime": 2, "SetUnhandledExceptionFilter": 1, "LookupPrivilegeValueW": 8, "LdrGetDllHandle": 2, "NtClose": 7, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 10}, "class": "benign", "name": "VSPerfSrv.exe"}

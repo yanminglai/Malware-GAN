@@ -1,0 +1,1 @@
+{"apistats": {"GetSystemInfo": 1, "NtCreateKey": 3, "LdrLoadDll": 2, "LoadStringW": 2, "RegCloseKey": 2, "GetSystemTimeAsFileTime": 2, "SetUnhandledExceptionFilter": 1, "NtSetValueKey": 6, "LdrUnloadDll": 1, "NtQueryValueKey": 15, "NtQueryKey": 4, "NtOpenKeyEx": 1, "LdrGetProcedureAddress": 6}, "class": "benign", "name": "cmstp.exe"}

@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "LdrLoadDll": 1, "LoadStringW": 4, "GetSystemTimeAsFileTime": 1, "NtClose": 6, "LdrUnloadDll": 2, "LdrGetDllHandle": 2, "NtQueryValueKey": 1, "WriteConsoleW": 3, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 1}, "class": "benign", "name": "reg5.exe"}

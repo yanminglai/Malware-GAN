@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "WriteConsoleA": 3, "NtAllocateVirtualMemory": 3, "GetSystemTimeAsFileTime": 1, "NtClose": 7, "NtOpenKey": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 3, "NtQueryValueKey": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 1}, "class": "benign", "name": "genmanifest.exe"}

@@ -1,0 +1,1 @@
+{"name": "6cc1387d-ac41-11e7-ba29-80e65024849a.file", "apistats": {"NtMapViewOfSection": 1, "LdrGetDllHandle": 1, "NtClose": 7, "NtCreateFile": 1, "NtQueryValueKey": 5, "NtOpenSection": 1, "GetFileAttributesW": 6, "NtFreeVirtualMemory": 1, "NtOpenKey": 7, "NtAllocateVirtualMemory": 3, "SetErrorMode": 17, "GetSystemInfo": 1, "LdrLoadDll": 2}, "class": "malware"}

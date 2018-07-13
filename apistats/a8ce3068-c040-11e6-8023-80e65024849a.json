@@ -1,0 +1,1 @@
+{"class": "malware", "name": "a8ce3068-c040-11e6-8023-80e65024849a.file", "apistats": {"SetUnhandledExceptionFilter": 1, "GetSystemInfo": 1, "LdrGetDllHandle": 1, "LoadStringW": 2, "NtClose": 1, "GetSystemTimeAsFileTime": 2, "SetErrorMode": 1, "GetFileAttributesW": 1, "LdrGetProcedureAddress": 113, "CreateActCtxW": 4, "NtProtectVirtualMemory": 4, "LdrLoadDll": 4}}

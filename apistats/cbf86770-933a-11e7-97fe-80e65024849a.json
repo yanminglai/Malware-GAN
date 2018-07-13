@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenMutant": 9, "NtClose": 2, "NtOpenDirectoryObject": 1, "RegCloseKey": 1, "GetSystemMetrics": 18, "LdrGetProcedureAddress": 44, "NtOpenKey": 1, "NtFreeVirtualMemory": 1, "NtOpenProcess": 1, "LdrLoadDll": 3, "LdrGetDllHandle": 31, "NtAllocateVirtualMemory": 4}, "class": "malware", "name": "cbf86770-933a-11e7-97fe-80e65024849a.file"}

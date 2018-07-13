@@ -1,0 +1,1 @@
+{"class": "malware", "name": "1a344cf0-cca8-11e7-bc8a-80e65024849a.file", "apistats": {"NtCreateFile": 2, "NtQueryInformationFile": 2, "NtReadFile": 1, "NtProtectVirtualMemory": 1, "NtFreeVirtualMemory": 2, "NtAllocateVirtualMemory": 5, "__exception__": 1, "NtClose": 2, "NtTerminateProcess": 1}}

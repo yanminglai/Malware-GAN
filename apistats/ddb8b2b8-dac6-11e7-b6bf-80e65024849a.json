@@ -1,0 +1,1 @@
+{"class": "malware", "name": "ddb8b2b8-dac6-11e7-b6bf-80e65024849a.file", "apistats": {"GetFileSize": 25481, "GetTempPathW": 1538, "GetFileType": 25481, "SetUnhandledExceptionFilter": 1, "LdrGetProcedureAddress": 33, "GetSystemTimeAsFileTime": 1, "LdrGetDllHandle": 2}}

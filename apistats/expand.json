@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "NtOpenKey": 4, "NtAllocateVirtualMemory": 1, "GetSystemTimeAsFileTime": 1, "NtClose": 5, "LdrUnloadDll": 2, "LdrGetDllHandle": 2, "LoadStringA": 2, "NtTerminateProcess": 3, "NtQueryValueKey": 5}, "class": "benign", "name": "expand.exe"}

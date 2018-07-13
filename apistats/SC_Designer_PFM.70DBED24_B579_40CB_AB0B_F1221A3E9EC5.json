@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtAllocateVirtualMemory": 3, "NtProtectVirtualMemory": 2, "GetFileType": 3, "NtClose": 45, "LdrGetDllHandle": 8, "NtQueryValueKey": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 9, "NtFreeVirtualMemory": 2}, "class": "benign", "name": "SC_Designer_PFM.70DBED24_B579_40CB_AB0B_F1221A3E9EC5.exe"}

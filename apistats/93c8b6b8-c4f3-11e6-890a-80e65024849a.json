@@ -1,0 +1,1 @@
+{"name": "93c8b6b8-c4f3-11e6-890a-80e65024849a.file", "apistats": {"LdrLoadDll": 1, "LdrGetDllHandle": 27, "NtClose": 1, "LdrGetProcedureAddress": 138, "NtFreeVirtualMemory": 2, "NtProtectVirtualMemory": 1, "NtQueryDirectoryFile": 62, "SetErrorMode": 1, "GetSystemTimeAsFileTime": 1, "FindFirstFileExW": 1, "NtAllocateVirtualMemory": 12, "GetSystemInfo": 1}, "class": "malware"}

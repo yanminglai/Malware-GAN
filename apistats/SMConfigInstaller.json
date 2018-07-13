@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtAllocateVirtualMemory": 4, "GetFileType": 3, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 29, "NtClose": 7, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 31, "NtFreeVirtualMemory": 1, "NtQueryValueKey": 1}, "class": "benign", "name": "SMConfigInstaller.exe"}

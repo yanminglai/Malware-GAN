@@ -1,0 +1,1 @@
+{"apistats": {"GetFileType": 3, "LdrGetDllHandle": 1, "FindFirstFileExW": 5, "LdrGetProcedureAddress": 33, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "ps_modularize_gui.exe"}

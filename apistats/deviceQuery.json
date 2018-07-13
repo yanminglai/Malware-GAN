@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 7, "LdrLoadDll": 1, "GetFileType": 3, "GetSystemDirectoryW": 2, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 2, "NtTerminateProcess": 3, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "deviceQuery.exe"}

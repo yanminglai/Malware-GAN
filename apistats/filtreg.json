@@ -1,0 +1,1 @@
+{"apistats": {"RegEnumKeyExW": 1094, "RegQueryValueExW": 1456, "RegOpenKeyExW": 1863, "RegCloseKey": 1455, "RegQueryInfoKeyW": 3, "SetUnhandledExceptionFilter": 1, "GetSystemTimeAsFileTime": 1}, "class": "benign", "name": "filtreg.exe"}

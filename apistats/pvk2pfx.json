@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "WriteConsoleA": 1, "LoadStringW": 1, "NtOpenKey": 1, "NtClose": 6, "GetSystemTimeAsFileTime": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtQueryValueKey": 1, "NtTerminateProcess": 3}, "class": "benign", "name": "pvk2pfx.exe"}

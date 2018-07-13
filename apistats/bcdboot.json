@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 5, "LdrLoadDll": 1, "NtQueryAttributesFile": 2, "GetFileType": 1, "GetSystemTimeAsFileTime": 1, "NtClose": 8, "LdrUnloadDll": 3, "LdrGetDllHandle": 2, "SetUnhandledExceptionFilter": 1, "WriteConsoleW": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 1, "NtQueryValueKey": 4}, "class": "benign", "name": "bcdboot.exe"}

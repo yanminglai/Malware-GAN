@@ -1,0 +1,1 @@
+{"apistats": {"LdrLoadDll": 1, "LoadStringW": 2, "GetFileAttributesW": 1, "CreateActCtxW": 4, "GetSystemTimeAsFileTime": 1, "NtClose": 1, "SetErrorMode": 1, "SetUnhandledExceptionFilter": 1, "LdrGetProcedureAddress": 3}, "class": "benign", "name": "osmadminicon.exe"}

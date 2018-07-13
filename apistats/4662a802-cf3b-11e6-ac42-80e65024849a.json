@@ -1,0 +1,1 @@
+{"class": "malware", "name": "4662a802-cf3b-11e6-ac42-80e65024849a.file", "apistats": {"NtSuspendThread": 1, "GetFileAttributesW": 1, "NtResumeThread": 1, "LdrUnloadDll": 1, "NtAllocateVirtualMemory": 6, "NtFreeVirtualMemory": 1, "CreateDirectoryW": 1, "SetFileAttributesW": 44381, "NtClose": 1, "CoCreateInstance": 1, "NtDelayExecution": 6, "GetFileType": 3, "LdrLoadDll": 1}}

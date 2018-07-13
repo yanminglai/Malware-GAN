@@ -1,0 +1,1 @@
+{"name": "05026a35-9eb3-11e6-9567-80e65024849a.file", "apistats": {"LoadStringW": 2, "LdrLoadDll": 1, "LdrGetDllHandle": 28, "SetUnhandledExceptionFilter": 1, "CreateActCtxW": 4, "NtClose": 1, "NtFreeVirtualMemory": 1, "GetFileAttributesW": 1, "SetErrorMode": 1, "GetSystemTimeAsFileTime": 1, "NtAllocateVirtualMemory": 4, "LdrGetProcedureAddress": 35}, "class": "malware"}

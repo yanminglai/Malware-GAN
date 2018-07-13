@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "NtOpenKey": 1, "NtAllocateVirtualMemory": 14, "GetSystemTimeAsFileTime": 1, "NtClose": 21, "LdrUnloadDll": 1, "LdrGetDllHandle": 6, "NtQueryValueKey": 1, "NtTerminateProcess": 3, "NtFreeVirtualMemory": 2, "LdrGetProcedureAddress": 6}, "class": "benign", "name": "NVIDIA.SteamLauncher.exe"}

@@ -1,0 +1,1 @@
+{"apistats": {"LdrUnloadDll": 1, "NtAllocateVirtualMemory": 5, "GetFileType": 3, "NtOpenKey": 1, "LdrGetProcedureAddress": 5, "NtTerminateProcess": 3, "NtQueryValueKey": 1, "GetSystemTimeAsFileTime": 1, "LdrGetDllHandle": 4, "NtFreeVirtualMemory": 1, "NtClose": 7}, "name": "d6120c30-e9b5-11e7-8065-80e65024849a.file", "class": "malware"}

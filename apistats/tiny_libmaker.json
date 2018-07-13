@@ -1,0 +1,1 @@
+{"apistats": {"NtTerminateProcess": 3, "WriteConsoleA": 1, "NtAllocateVirtualMemory": 2, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "tiny_libmaker.exe"}

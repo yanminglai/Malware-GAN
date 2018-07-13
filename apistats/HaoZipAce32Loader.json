@@ -1,0 +1,1 @@
+{"apistats": {"LdrGetDllHandle": 5, "LdrLoadDll": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 33, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "HaoZipAce32Loader.exe"}

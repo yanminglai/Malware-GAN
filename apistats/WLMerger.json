@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "NtOpenKey": 1, "NtAllocateVirtualMemory": 4, "GetFileType": 3, "GetSystemTimeAsFileTime": 1, "NtClose": 4, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtQueryValueKey": 1, "NtTerminateProcess": 3, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "WLMerger.exe"}

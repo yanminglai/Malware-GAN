@@ -1,0 +1,1 @@
+{"apistats": {"WriteConsoleA": 64, "NtAllocateVirtualMemory": 4, "GetFileType": 3, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 4, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 4, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "binary2text.exe"}

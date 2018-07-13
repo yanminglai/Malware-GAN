@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 8, "LdrLoadDll": 1, "GetFileType": 3, "GetSystemDirectoryW": 2, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 2, "NtTerminateProcess": 3, "NtFreeVirtualMemory": 2}, "class": "benign", "name": "bandwidthTest.exe"}

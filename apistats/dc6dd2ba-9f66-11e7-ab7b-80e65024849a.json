@@ -1,0 +1,1 @@
+{"class": "malware", "name": "dc6dd2ba-9f66-11e7-ab7b-80e65024849a.file", "apistats": {"RegQueryValueExW": 2, "RegOpenKeyExA": 2, "GetSystemInfo": 1, "LdrGetDllHandle": 3, "RegOpenKeyExW": 3, "NtOpenDirectoryObject": 1, "RegCloseKey": 2, "SetErrorMode": 5, "GetSystemDirectoryW": 2, "LdrGetProcedureAddress": 8, "LdrLoadDll": 2}}

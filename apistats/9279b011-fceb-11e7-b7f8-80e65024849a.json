@@ -1,0 +1,1 @@
+{"class": "malware", "name": "9279b011-fceb-11e7-b7f8-80e65024849a.file", "apistats": {"NtQueryInformationFile": 11470, "NtAllocateVirtualMemory": 4, "SetUnhandledExceptionFilter": 1, "NtQuerySystemInformation": 22941, "LdrGetDllHandle": 2, "NtDeviceIoControlFile": 11470, "NtFreeVirtualMemory": 1, "NtClose": 11470, "LdrGetProcedureAddress": 4, "GetSystemTimeAsFileTime": 1}}

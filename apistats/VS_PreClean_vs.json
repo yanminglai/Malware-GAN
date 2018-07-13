@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "LdrLoadDll": 8, "GetSystemTimeAsFileTime": 1, "NtClose": 13, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "SetUnhandledExceptionFilter": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 10, "NtQueryValueKey": 1}, "class": "benign", "name": "VS_PreClean_vs.exe"}

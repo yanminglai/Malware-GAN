@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 1, "WriteConsoleA": 2, "LdrLoadDll": 1, "NtClose": 2, "GetSystemWindowsDirectoryW": 1, "NtCreateFile": 1, "LdrGetDllHandle": 2, "SetUnhandledExceptionFilter": 1, "NtCreateSection": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 2, "NtQueryValueKey": 1}, "class": "benign", "name": "diff3.exe"}

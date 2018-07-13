@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "WriteConsoleA": 1, "NtOpenKey": 1, "NtClose": 8, "GetSystemTimeAsFileTime": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtQueryValueKey": 1, "NtTerminateProcess": 3}, "class": "benign", "name": "vswriter.exe"}

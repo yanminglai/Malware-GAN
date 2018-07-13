@@ -1,0 +1,1 @@
+{"apistats": {"NtTerminateProcess": 3, "GetFileType": 3, "NtAllocateVirtualMemory": 3, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "ARPPRODUCTICON.exe"}

@@ -1,0 +1,1 @@
+{"apistats": {"FindResourceA": 1, "SizeofResource": 1, "LdrGetDllHandle": 1, "LoadStringA": 1, "LdrGetProcedureAddress": 1, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "wextract.exe"}

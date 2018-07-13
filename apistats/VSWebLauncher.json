@@ -1,0 +1,1 @@
+{"apistats": {"GetFileVersionInfoSizeExW": 1, "NtQueryDirectoryFile": 2, "LdrLoadDll": 8, "LoadStringW": 2, "NtQueryAttributesFile": 2, "GetSystemTimeAsFileTime": 2, "NtClose": 1, "SetUnhandledExceptionFilter": 1, "FindFirstFileExW": 1, "GetFileVersionInfoExW": 1, "LdrGetProcedureAddress": 10}, "class": "benign", "name": "VSWebLauncher.exe"}

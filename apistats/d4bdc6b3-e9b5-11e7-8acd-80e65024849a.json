@@ -1,0 +1,1 @@
+{"class": "malware", "apistats": {"LdrGetProcedureAddress": 33, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 1, "GetNativeSystemInfo": 652816}, "name": "d4bdc6b3-e9b5-11e7-8acd-80e65024849a.file"}

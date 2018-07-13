@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtClose": 11, "NtTerminateProcess": 3, "NtQueryValueKey": 1}, "class": "benign", "name": "bfsvc.exe"}

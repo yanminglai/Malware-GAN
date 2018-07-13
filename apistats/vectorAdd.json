@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 11, "LdrLoadDll": 1, "GetFileType": 3, "GetSystemDirectoryW": 2, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 2, "NtTerminateProcess": 3, "NtFreeVirtualMemory": 3}, "class": "benign", "name": "vectorAdd.exe"}

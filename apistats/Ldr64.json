@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 6, "GetFileType": 3, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "LdrGetDllHandle": 22, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 21, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "Ldr64.exe"}

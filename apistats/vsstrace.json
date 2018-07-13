@@ -1,0 +1,1 @@
+{"apistats": {"NtQuerySystemInformation": 5, "NtOpenKey": 5, "NtAllocateVirtualMemory": 4, "GetSystemTimeAsFileTime": 1, "NtClose": 5, "NtFreeVirtualMemory": 2, "NtQueryValueKey": 17, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "vsstrace.exe"}

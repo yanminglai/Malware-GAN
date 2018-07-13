@@ -1,0 +1,1 @@
+{"apistats": {"NtTerminateProcess": 3, "WriteConsoleA": 56, "LdrGetProcedureAddress": 89, "LdrGetDllHandle": 91, "GetSystemTimeAsFileTime": 1}, "class": "benign", "name": "etcpack2.exe"}

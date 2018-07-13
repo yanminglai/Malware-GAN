@@ -1,0 +1,1 @@
+{"apistats": {"SetUnhandledExceptionFilter": 1, "NtOpenKey": 1, "SizeofResource": 4, "FindResourceExW": 4, "GetSystemTimeAsFileTime": 1, "NtClose": 3, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtQueryValueKey": 1, "LoadResource": 4, "NtTerminateProcess": 3}, "class": "benign", "name": "winmdidl.exe"}

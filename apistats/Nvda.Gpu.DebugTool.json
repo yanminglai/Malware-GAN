@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "LdrLoadDll": 1, "GetSystemTimeAsFileTime": 1, "NtClose": 9, "LdrUnloadDll": 1, "LdrGetDllHandle": 1, "SetUnhandledExceptionFilter": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 33, "NtQueryValueKey": 1}, "class": "benign", "name": "Nvda.Gpu.DebugTool.exe"}

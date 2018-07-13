@@ -1,0 +1,1 @@
+{"name": "b5540bd1-9a86-11e6-803e-80e65024849a.file", "apistats": {"CoCreateInstance": 1, "NtResumeThread": 2, "GetFileType": 3, "GetFileAttributesW": 1, "NtSuspendThread": 2, "NtDelayExecution": 2, "GetSystemDirectoryA": 34265, "NtAllocateVirtualMemory": 6, "setsockopt": 1}, "class": "malware"}

@@ -1,0 +1,1 @@
+{"name": "ac3bc94f-5260-11e7-abfd-80e65024849a.file", "apistats": {"NtAllocateVirtualMemory": 8, "NtResumeThread": 2, "LdrLoadDll": 1, "GetFileType": 3, "RemoveDirectoryW": 1, "NtClose": 2, "NtSuspendThread": 1, "NtFreeVirtualMemory": 1, "GetFileAttributesW": 1, "NtDelayExecution": 1, "SetFileAttributesW": 38069, "CoCreateInstance": 1, "select": 1}, "class": "malware"}

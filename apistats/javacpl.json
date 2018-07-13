@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 1, "NtOpenKey": 1, "NtClose": 2, "NtCreateFile": 1, "LoadStringA": 1, "CreateProcessInternalW": 1, "NtCreateSection": 1, "NtQueryValueKey": 1}, "class": "benign", "name": "javacpl.exe"}

@@ -1,0 +1,1 @@
+{"apistats": {"NtCreateSection": 1, "NtClose": 2, "LdrLoadDll": 2, "NtCreateFile": 1, "GetFileSize": 1, "NtUnmapViewOfSection": 1, "NtMapViewOfSection": 1}, "name": "8fc9701e-fceb-11e7-827b-80e65024849a.file", "class": "malware"}

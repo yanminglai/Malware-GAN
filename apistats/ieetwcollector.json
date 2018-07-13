@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 6, "GetFileType": 3, "NtFreeVirtualMemory": 1, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "ieetwcollector.exe"}

@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 12, "NtTerminateProcess": 3, "LdrGetDllHandle": 2, "GetFileType": 3, "NtFreeVirtualMemory": 3, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1}, "class": "benign", "name": "cuda-memcheck.exe"}

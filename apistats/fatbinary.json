@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 10, "GetFileType": 3, "GetSystemTimeAsFileTime": 1, "NtClose": 2, "LdrGetDllHandle": 22, "SetUnhandledExceptionFilter": 2, "WSAStartup": 1, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 21, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "fatbinary.exe"}

@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtAllocateVirtualMemory": 6, "CoInitializeEx": 1, "GetFileType": 3, "CoUninitialize": 1, "SetUnhandledExceptionFilter": 1, "GetSystemTimeAsFileTime": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 2, "NtClose": 5, "NtTerminateProcess": 3, "NtFreeVirtualMemory": 1, "NtQueryValueKey": 1}, "class": "benign", "name": "LinqWebConfig.exe"}

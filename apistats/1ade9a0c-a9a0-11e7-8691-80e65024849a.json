@@ -1,0 +1,1 @@
+{"apistats": {"GetSystemTimeAsFileTime": 1, "NtAllocateVirtualMemory": 2, "LdrLoadDll": 3, "GetSystemInfo": 1, "NtOpenMutant": 6, "NtFreeVirtualMemory": 1}, "name": "1ade9a0c-a9a0-11e7-8691-80e65024849a.file", "class": "malware"}

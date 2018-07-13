@@ -1,0 +1,1 @@
+{"apistats": {"NtCreateSection": 1, "NtOpenFile": 1, "LdrGetProcedureAddress": 99, "NtOpenProcess": 1, "NtCreateFile": 2, "NtClose": 5, "NtAllocateVirtualMemory": 5, "ReadProcessMemory": 1, "LdrLoadDll": 6, "NtFreeVirtualMemory": 1, "NtProtectVirtualMemory": 7}, "name": "fcd5700c-a6ae-11e6-b9e6-80e65024849a.file", "class": "malware"}

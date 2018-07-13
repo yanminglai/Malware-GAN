@@ -1,0 +1,1 @@
+{"class": "malware", "name": "db0e3f4f-9a86-11e6-9d73-80e65024849a.file", "apistats": {"NtOpenKey": 1, "SetUnhandledExceptionFilter": 1, "LdrUnloadDll": 1, "LdrGetDllHandle": 3, "NtQueryValueKey": 1, "NtClose": 6, "LdrGetProcedureAddress": 33, "GetSystemTimeAsFileTime": 1, "NtTerminateProcess": 3}}

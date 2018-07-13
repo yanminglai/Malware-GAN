@@ -1,0 +1,1 @@
+{"apistats": {"RegCloseKey": 2, "GetSystemInfo": 1, "GetSystemDirectoryW": 2, "LdrGetProcedureAddress": 8, "RegOpenKeyExW": 3, "RegOpenKeyExA": 2, "SetErrorMode": 5, "LdrLoadDll": 2, "LdrGetDllHandle": 3, "RegQueryValueExW": 2, "NtOpenDirectoryObject": 1}, "name": "8986d36e-9f66-11e7-9b4e-80e65024849a.file", "class": "malware"}

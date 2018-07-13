@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "LdrUnloadDll": 1, "NtQueryValueKey": 1, "WriteConsoleW": 2, "NtTerminateProcess": 3, "GetFileAttributesW": 2, "NtClose": 14}, "class": "benign", "name": "adl.exe"}

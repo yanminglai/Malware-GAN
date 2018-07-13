@@ -1,0 +1,1 @@
+{"apistats": {"NtOpenKey": 1, "NtAllocateVirtualMemory": 3, "GetFileType": 3, "NtClose": 6, "LdrUnloadDll": 1, "NtFreeVirtualMemory": 1, "NtQueryValueKey": 1, "NtTerminateProcess": 3}, "class": "benign", "name": "copybtn.exe"}

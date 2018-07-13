@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 1, "NtOpenKey": 3, "NtClose": 9, "LdrUnloadDll": 1, "LdrGetDllHandle": 3, "NtQueryValueKey": 3, "WriteConsoleW": 1, "NtCreateSection": 1, "NtTerminateProcess": 3, "NtCreateFile": 1}, "class": "benign", "name": "find5.exe"}

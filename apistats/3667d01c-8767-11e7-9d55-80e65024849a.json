@@ -1,0 +1,1 @@
+{"name": "3667d01c-8767-11e7-9d55-80e65024849a.file", "apistats": {"LdrLoadDll": 2, "LdrGetDllHandle": 1, "GetSystemTimeAsFileTime": 1, "NtAllocateVirtualMemory": 2, "GetSystemInfo": 1, "NtFreeVirtualMemory": 1}, "class": "malware"}

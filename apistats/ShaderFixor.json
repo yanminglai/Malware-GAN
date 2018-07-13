@@ -1,0 +1,1 @@
+{"apistats": {"WriteConsoleA": 168, "NtAllocateVirtualMemory": 7, "GetFileType": 3, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "NtCreateFile": 55, "LdrGetDllHandle": 4, "NtTerminateProcess": 3, "LdrGetProcedureAddress": 4, "NtFreeVirtualMemory": 1}, "class": "benign", "name": "ShaderFixor.exe"}

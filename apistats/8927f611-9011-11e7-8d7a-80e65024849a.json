@@ -1,0 +1,1 @@
+{"class": "malware", "apistats": {"NtOpenDirectoryObject": 2, "LdrGetDllHandle": 1, "LdrLoadDll": 2, "NtOpenMutant": 6}, "name": "8927f611-9011-11e7-8d7a-80e65024849a.file"}

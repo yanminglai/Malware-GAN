@@ -1,0 +1,1 @@
+{"apistats": {"NtMapViewOfSection": 1, "GetSystemMetrics": 4, "NtClose": 1, "GetSystemTimeAsFileTime": 1, "NtCreateFile": 1, "SetUnhandledExceptionFilter": 1, "NtCreateSection": 1, "LdrGetProcedureAddress": 1}, "class": "benign", "name": "InfDefaultInstall.exe"}

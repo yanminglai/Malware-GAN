@@ -1,0 +1,1 @@
+{"apistats": {"NtAllocateVirtualMemory": 6, "RegCreateKeyExW": 1, "RegSetValueExW": 32, "RegCloseKey": 1, "GetSystemTimeAsFileTime": 1, "SetUnhandledExceptionFilter": 1, "__exception__": 1, "NtFreeVirtualMemory": 1, "RegQueryValueExW": 32, "NtTerminateProcess": 1}, "class": "benign", "name": "CXAPOAgent64.exe"}
